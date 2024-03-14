@@ -27,9 +27,9 @@ npm start
 
 2. Access the APIs using the following routes:
 
-- `/question`: Retrieves questions data from the JSON file.
-- `/answer`: Retrieves answers data from the JSON file.
-- `/processed-data`: Combines questions and answers data and provides processed data.
+- `https://chart-js-server.vercel.app/api/v1/answer`: Retrieves questions data from the JSON file.
+- `https://chart-js-server.vercel.app/api/v1/question`: Retrieves answers data from the JSON file.
+- `https://chart-js-server.vercel.app/api/v1/processed`: Combines questions and answers data and provides processed data.
 
 ## Project Structure
 
