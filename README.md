@@ -23,7 +23,9 @@ npm install
 
 1. Start the server:
 
-npm start
+```
+npm run dev
+```
 
 2. Access the APIs using the following routes:
 
