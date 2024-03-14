@@ -36,9 +36,10 @@ npm run dev
 ## Project Structure
 
 - `app.js`: Entry point of the application.
-- `data/`: Directory containing JSON files for questions and answers.
+- `content/`: Directory containing JSON files for questions and answers.
+- `controller/`: Directory containing controller for all the routes.
+- `service/`: Directory containing services for all the routes.
 - `routes/`: Directory containing route handlers for different APIs.
-- `utils/`: Directory containing utility functions.
 
 ## Contributing
 
